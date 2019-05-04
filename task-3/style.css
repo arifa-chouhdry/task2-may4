@@ -1,0 +1,23 @@
+main{
+  
+   
+    padding: 10px;
+    margin: 10px;
+    background-image: linear-gradient(to right,#0CD5DC , 	#7EDB94);
+}
+button{
+    border-radius: 10px;
+    padding:10px;
+    margin-top:10px;
+    background-color: 	#28AFBC;
+    border:none;
+    cursor: pointer;
+}
+input{ 
+    border-radius: 5px;
+
+}
+}
+body{
+    background-image: linear-gradient(to right,#0CD5DC , 	#7EDB94);
+}
